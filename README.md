@@ -8,6 +8,15 @@
 - Easy-to-use command-line interface.
 - Cross-platform compatibility (Linux and macOS).
 
+---
+
+_This project has been tested successfully on the following configurations:_
+
+- _Go version: `go1.20.6 darwin/arm64`_
+- _macOS version: `macOS 13.4.1`_
+- _Product Version Extra: `(c)`_
+- _Build Version: `22F770820d`_
+
 # 💻 Usage:
 1. Clone the repository:
     ```bash
@@ -33,14 +42,6 @@
       --compressed \
       "https://admin.googleapis.com/admin/directory/v1/users/aaa@yyy.com?projection=full"
     ```
-
-Note: This is tested successfully on
-- `go version go1.20.6 darwin/arm64`
-- `ProductName:         macOS`
-- `ProductVersion:      13.4.1`
-- `ProductVersionExtra: (c)`
-- `BuildVersion:        22F770820d`
-
 
 # Google Workspace Service Account Setup Guide
 
