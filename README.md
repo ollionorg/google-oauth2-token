@@ -34,6 +34,14 @@
       "https://admin.googleapis.com/admin/directory/v1/users/aaa@yyy.com?projection=full"
     ```
 
+Note: This is tested successfully on
+- `go version go1.20.6 darwin/arm64`
+- `ProductName:         macOS`
+- `ProductVersion:      13.4.1`
+- `ProductVersionExtra: (c)`
+- `BuildVersion:        22F770820d`
+
+
 # Google Workspace Service Account Setup Guide
 
 ## Create a Service Account
